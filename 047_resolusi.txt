@@ -1,6 +1,6 @@
 Resolusiku:
   - Hidup bahagia
-  - Berhenti menunda pekerjaan
   - Menjadi Sukarelawan
   - Tamat tepat waktu
   - Pulang cepat
+  - ip diatas 3
